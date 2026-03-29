@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @Genduth
-- 👀 I’m interested in Music, Games and Food... 
-- 🌱 I’m currently learning Python and SQL for my work. 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, message me on here if thats possible? 
-- ⚡ Fun fact: I play multiple instruments!
+# Hey, I'm George 👋
 
-<!---
-Genduth/Genduth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Analyst turning Data Engineer. Currently building end-to-end
+pipelines and picking up the skills to make the jump into DE properly.
+
+## What I'm working with
+
+**Day job:** Python · SQL · Power BI · Snowflake · Alteryx · Azure
+**Building towards:** dbt · Spark · Kafka · AWS
+
+## What's in here
+
+Working through a structured 6-month DE roadmap and building some
+projects along the way — Check the pinned repos below.
+
+## About me
+
+- 📍 UK-based, relocating to Poland
+- 📚 Currently: AWS Cloud Practitioner + dbt fundamentals
+- 🎯 Goal: Data Engineer role in Warsaw
+
+## Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George-blue?logo=linkedin)](https://linkedin.com/in/GeorgeWarlow)
