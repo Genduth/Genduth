@@ -22,4 +22,4 @@ projects along the way — Check the pinned repos below.
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-George-blue?logo=linkedin)](https://linkedin.com/in/GeorgeWarlow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-George-blue?logo=linkedin)](https://linkedin.com/in/george-warlow)
