@@ -6,6 +6,7 @@ pipelines and picking up the skills to make the jump into DE properly.
 ## What I'm working with
 
 **Day job:** Python · SQL · Power BI · Snowflake · Alteryx · Azure
+
 **Building towards:** dbt · Spark · Kafka · AWS
 
 ## What's in here
