@@ -5,20 +5,20 @@ pipelines and picking up the skills to make the jump into DE properly.
 
 ## What I'm working with
 
-**Day job:** Python · SQL · Power BI · Snowflake · Alteryx · Azure
+**Day job:** Python · SQL · Power BI · Snowflake · Alteryx
 
-**Building towards:** dbt · Spark · Kafka · AWS
+**Building towards:** dbt · Spark · Kafka · Azure
 
 ## What's in here
 
-Working through a structured 6-month DE roadmap and building some
-projects along the way — Check the pinned repos below.
+Working my way through a self designed Data Engineering roadmap and building some
+projects along the way.
 
 ## About me
 
 - 📍 UK-based, relocating to Poland
-- 📚 Currently: AWS Cloud Practitioner + dbt fundamentals
-- 🎯 Goal: Data Engineer role in Warsaw
+- 📚 Currently Learning: Azure SQL Server + API Pipeline Ingestion 
+- 🎯 Goal: Junior Data Engineer role in Warsaw
 
 ## Get in touch
 
