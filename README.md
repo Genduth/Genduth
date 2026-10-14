@@ -1,6 +1,6 @@
 # Hey, I'm George 👋
 
-Data Analyst improving my skills in SQL and Python.
+Data Analyst, skilled in PowerBI, Data Modelling and SQL. Developing stronger skills in Python.
 
 ## Get in touch
 
